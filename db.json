@@ -1,0 +1,62 @@
+{
+  "videos": [
+    {
+      "id": "5",
+      "caption": "neela nilave",
+      "thumbnail": "https://timesofindia.indiatimes.com/photo/msid-103197447,imgsize-182005.cms",
+      "url": "https://www.youtube.com/embed/nYEoxne_20Y"
+    },
+    {
+      "id": "18",
+      "caption": "chaleya",
+      "thumbnail": "https://i.ytimg.com/vi/LHEU3tE_biU/maxresdefault.jpg",
+      "url": "https://www.youtube.com/embed/VAdGW7QDJiU"
+    }
+  ],
+  "category": [
+    {
+      "id": "9",
+      "name": "malayalam",
+      "allVideos": [
+        {
+          "id": "5",
+          "caption": "neela nilave",
+          "thumbnail": "https://timesofindia.indiatimes.com/photo/msid-103197447,imgsize-182005.cms",
+          "url": "https://www.youtube.com/embed/nYEoxne_20Y"
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "name": "Hindi",
+      "allVideos": [
+        {
+          "id": "18",
+          "caption": "chaleya",
+          "thumbnail": "https://i.ytimg.com/vi/LHEU3tE_biU/maxresdefault.jpg",
+          "url": "https://www.youtube.com/embed/VAdGW7QDJiU"
+        }
+      ]
+    }
+  ],
+  "watchhistory": [
+    {
+      "id": 1,
+      "cardname": "rdx",
+      "url": "https://www.youtube.com/embed/nYEoxne_20Y",
+      "date": "08-12-2023"
+    },
+    {
+      "id": "ac4bfe4d-d059-4cdf-b940-6cba3aa7845b",
+      "cardname": "neela nilave",
+      "url": "https://www.youtube.com/embed/nYEoxne_20Y",
+      "date": "2023-12-12T07:18:43.215Z"
+    },
+    {
+      "id": "78606fbd-7bde-49bf-8b55-e528802faf57",
+      "cardname": "chaleya",
+      "url": "https://www.youtube.com/embed/VAdGW7QDJiU",
+      "date": "2023-12-12T07:47:45.476Z"
+    }
+  ]
+}
